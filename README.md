@@ -1,2 +1,2 @@
 # SemiGitTest
-SemiGitTest 연
+SemiGitTest 연습용
