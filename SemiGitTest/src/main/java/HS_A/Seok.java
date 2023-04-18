@@ -6,7 +6,7 @@ public class Seok {
 		// TODO Auto-generated method stub
 		
 		System.out.println("전용브랜치 생성클래스");
-
+		System.out.println("클래스내용변경");
 	}
 
 }
