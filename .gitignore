@@ -97,3 +97,7 @@ replay_pid*
 
 # ignore List
 /SemiGitTest/src/main/webapp/WEB-INF/Command.properties
+/SemiGitTest/src/main/java/common/controller/AbstractController.java
+/SemiGitTest/src/main/java/common/controller/ErrorController.java
+/SemiGitTest/src/main/java/common/controller/FrontController.java
+/SemiGitTest/src/main/java/common/controller/InterCommand.java
